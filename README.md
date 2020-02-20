@@ -21,6 +21,29 @@ x(i) = tüm özellik değerlerinin i. örneği (Vektör)
 
 y(i) = özelliklerin i. çıktısı
 
-şimdi basit bir örnek ile pekiştirelim.
+# şimdi basit bir örnek ile pekiştirelim
+
+bir bölge düşünün ve bu bölge için ortalama ev gelir değerlerini bulacağız.
+
+ilk bölge:
+
+boylam = -118.89 derece
+
+enlem = 33.91 derece
+
+ortalama gelir = 38.372 dolar
+
+nüfus = 1.416
+
+buraya kadarki bilgiler x(i) nin içindeki bilgilerdi (vektör)
+yani şöyle x(i) etiketsiz bir veri
+
+
+
+bu evlerin ortalama değeri 156.400
+
+yani y(i) = 156.400 buda etiketi oluyor.
+
+
 
 
