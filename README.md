@@ -43,5 +43,7 @@ yani y(i) = 156.400 buda etiketi oluyor.
 
 ![aas](https://user-images.githubusercontent.com/54184905/74971731-9f3e1c80-5431-11ea-9f88-6bd21cef2ae2.png)
 
+ve bu anlattıklarımı LinearRegression (Doğrusal Regresyon) ile kodlara dökerek bilgisayar ortamında çalıştırdık.
+
 ---------------------------------
 
