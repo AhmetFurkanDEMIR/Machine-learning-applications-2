@@ -12,3 +12,5 @@ uygulanacak birçok veri dönüşümü vardır.
 # Performans Ölçüsü
 
 Kök Ortalama Kare Sapması (RMSE) = bir model veya tahminci tarafından öngörülen değerler ile gözlenen değerler arasındaki farkların ölçüsü.
+
+![as](https://user-images.githubusercontent.com/54184905/74971010-6baec280-5430-11ea-9c8a-d5b74770eb59.png)
