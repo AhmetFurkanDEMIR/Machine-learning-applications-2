@@ -35,15 +35,13 @@ ortalama gelir = 38.372 dolar
 
 nüfus = 1.416
 
-buraya kadarki bilgiler x(i) nin içindeki bilgilerdi (vektör)
-yani şöyle x(i) etiketsiz bir veri
-
-
+buraya kadarki bilgiler x(i) nin içindeki bilgilerdi (vektör), yani şöyle x(i) etiketsiz bir veri
 
 bu evlerin ortalama değeri 156.400
 
 yani y(i) = 156.400 buda etiketi oluyor.
 
+![aas](https://user-images.githubusercontent.com/54184905/74971731-9f3e1c80-5431-11ea-9f88-6bd21cef2ae2.png)
 
 
 
